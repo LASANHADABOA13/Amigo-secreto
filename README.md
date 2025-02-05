@@ -1,48 +1,31 @@
-#Amigo Secreto Online
-Este é um projeto simples de um site que permite ao usuário adicionar uma lista de nomes e sortear um único nome aleatoriamente. É uma ferramenta útil para organizar sorteios de amigo secreto, rifas ou qualquer outra atividade que envolva escolher um nome de forma aleatória.
+# Amigo Secreto Online
 
-#Funcionalidades
-Adicionar Nomes: O usuário pode adicionar quantos nomes quiser à lista.
+**Este é um projeto simples de um site que permite ao usuário adicionar uma lista de nomes e sortear um único nome aleatoriamente.** É uma ferramenta útil para organizar sorteios de amigo secreto, rifas ou qualquer outra atividade que envolva escolher um nome de forma aleatória.
 
-Sortear um Nome: Ao clicar no botão "Sortear", o sistema escolhe aleatoriamente um nome da lista e exibe o resultado.
+## Funcionalidades
 
-Interface Simples e Intuitiva: Design limpo e fácil de usar, com foco na experiência do usuário.
+- **Adicionar Nomes**: O usuário pode adicionar quantos nomes quiser à lista.
+- **Sortear um Nome**: Ao clicar no botão "Sortear", o sistema escolhe aleatoriamente um nome da lista e exibe o resultado.
+- **Interface Simples e Intuitiva**: Design limpo e fácil de usar, com foco na experiência do usuário.
 
-#Como Usar
-Adicionar Nomes:
+## Como Usar
 
-Digite um nome no campo de texto.
+1. **Adicionar Nomes**:
+   - Digite um nome no campo de texto.
+   - Clique no botão "Adicionar" para incluir o nome na lista.
 
-Clique no botão "Adicionar" para incluir o nome na lista.
+2. **Sortear um Nome**:
+   - Após adicionar os nomes, clique no botão "Sortear".
+   - O nome sorteado será exibido na tela.
 
-Sortear um Nome:
+## Tecnologias Utilizadas
 
-Após adicionar os nomes, clique no botão "Sortear".
+- **HTML**: Estrutura da página.
+- **CSS**: Estilização e design responsivo.
+- **JavaScript**: Lógica para adicionar nomes e realizar o sorteio.
 
-O nome sorteado será exibido na tela.
+## Como Executar o Projeto
 
-Tecnologias Utilizadas
-HTML: Estrutura da página.
-
-CSS: Estilização e design responsivo.
-
-JavaScript: Lógica para adicionar nomes e realizar o sorteio.
-
-Como Executar o Projeto
-Clone este repositório:
-
-bash
-Copy
-git clone https://github.com/seu-usuario/amigo-secreto.git
-Abra o arquivo index.html no seu navegador.
-
-Exemplo de Uso
-Adicione os nomes: Gabriel, João, Pedro, Lucas.
-
-Clique em "Sortear".
-
-O sistema exibirá algo como:
-
-Copy
-O nome sorteado foi: João
-Se precisar de mais detalhes ou personalizações, é só ajustar o texto conforme sua necessidade! 😊
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/amigo-secreto.git
